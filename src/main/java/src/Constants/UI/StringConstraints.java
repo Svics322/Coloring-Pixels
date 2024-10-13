@@ -1,7 +1,5 @@
 package src.Constants.UI;
 
-import java.awt.*;
-
 public class StringConstraints {
 
     public static final String MENU_PANEL = "ГОЛОВНЕ_МЕНЮ";
